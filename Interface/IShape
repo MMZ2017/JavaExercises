@@ -1,0 +1,6 @@
+package Practice;
+
+public interface IShape {
+	public void getPerimeter();
+	public void getArea();
+}
