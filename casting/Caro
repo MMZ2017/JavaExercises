@@ -1,0 +1,7 @@
+package casting;
+
+public class Caro extends Carolla{
+	public void driving() {
+		System.out.println("Caro is moving");
+	}
+}
