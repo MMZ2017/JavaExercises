@@ -1,5 +1,0 @@
-package Practice;
-
-public interface IPolygon {
-	public int getNumOfSide();
-}
